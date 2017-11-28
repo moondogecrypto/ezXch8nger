@@ -19,9 +19,9 @@ only me right now
 
 **Project Summary:** 
 
-1)I am located in Malaysia and like many other countries crypto is still very new and beginning to get some traction. The only possible way to get into crypto right now is via bank trasnfer to a service provider wallet (i.e luno etc) and vice versa. The third party usually has presence here in Malaysia and has set up a company and bank account to receive those funds. Usually if not most of the time these wallets offer fiat->BTC and BTC->fiat conversion and direct bank transfers. So far there isnt one that accepts BitcoinCash Fiat conversions.
-2)Recently, the Central Bank of Malaysia, released a statement saying that they will regulate the exchange from crypto to fiat by appointing "individuals" to comply with AML reguations. In Malaysia we have what we call traditional Money Changers, who are in essence small business owners who offer fiat currency exchange, you could go to a bank too, but these money changers are found almost everywhere and convenient, and on top of that they are already licensed and follow strict Central Banks procedures.
-3)The project is to work with these traditional money changers and offer them a platform to conduct BitcoinCash conversions to fiat as an added service.
+1)I am located in Malaysia and like many other countries crypto is still very new and beginning to get some traction. The only possible way to get into crypto right now is via bank trasnfer to a service provider wallet (i.e luno etc) and vice versa. The third party usually has presence here in Malaysia with a locally incorporated company and bank account to receive those funds. Usually if not most of the time these wallets offer fiat->BTC and BTC->fiat conversion and direct bank transfers. So far there isnt one that accepts BitcoinCash Fiat conversions.
+2)Recently, the Central Bank of Malaysia, released a statement saying that they will regulate the exchange from crypto to fiat by appointing "individuals" to comply with AML (Anti money laundering) regulations. In Malaysia we have what we call traditional Money Changers, who are in essence small business owners (sometimes they own more than one) who offer different  fiat currency exchanges, you could go to a bank too, but these money changers are found almost everywhere and convenient, and on top of that they are already licensed and follow strict Central Banks procedures.
+3)The project is to work with these traditional money changers and offer them a platform to conduct BitcoinCash conversions to fiat as an added service.key here is to be the first mover.
 
 **Resources:**
 
@@ -41,7 +41,7 @@ dot com register
 hosting
 
 Funding is needed upon approval of project or can be structured on a "upon completion" basis if jobs are done by people within the community.
-Total rough estimated funding needed is 5k USD (need some input here as I have never done anything like this before)
+Total rough estimated funding needed is 5k USD maybe much less (need some technical input here as I have never done anything like this before)as I dont think there is much dev work that is needed.
 
 
 
@@ -62,7 +62,7 @@ June - marketing, on boarding
 
 [Insert a list of clearly defined list of goals including: 
     - traditional money changers  
-    - 100-200k people
+    - 100-200k people if not more
     - In the Kuala Lumpur City to start
     - The most logical step for the traditional money changer is to accept BitcoinCash the true peer2peer electronic cash
 
