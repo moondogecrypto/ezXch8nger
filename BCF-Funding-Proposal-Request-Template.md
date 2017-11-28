@@ -1,7 +1,7 @@
 # ![BCF Logo Round Tiny](https://raw.githubusercontent.com/The-Bitcoin-Cash-Fund/Branding/master/BCF%20Symbol%20Round%20Tiny.png) BCF Funding Proposal Request Template
 
 
-**Project Name:** excha8nger
+**Project Name:** ezXch8nger
 
 
 **Start Date:** github repo 28.11.2017
