@@ -71,5 +71,5 @@ Total rough estimated funding needed is 5k USD maybe much less (need some techni
 
 **Other:**
 
-I am 43 years old, married with a 1 year old son. I have an Economic and Finance backround, and have run an engineering based business since January this year. Ever since January and finding crypto and blockchain and BitcoinCash, my resolve is to contribute and to spread the word of this fantastic tech!
+I am 43 years old, married with a 1 year old son. I have an Economic and Finance backround, and ran an engineering based firm for 15 years until January of this year. Ever since January and finding crypto and blockchain and BitcoinCash, my resolve is to contribute and to spread the word of this fantastic tech and to be apart of this historical revolutionary evolution of cash. 
 
